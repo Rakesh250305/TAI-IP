@@ -1,2 +1,2 @@
-# TAI-IP
-Tech-A-Intern programs by Rakesh Raikwar
+# TAI-IP(Batch- M-IP6)
+Tech-A-Intern programs project on image slidrer by Rakesh Raikwar.
